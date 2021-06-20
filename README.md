@@ -47,10 +47,14 @@ Have it in the Same folder as `index.js` and `Lavalink.jar`
 
 
 
-## **Credits**
+## Credits
 
-[@tomato](https://github.com/Tomato6966/) For the Reacting system to messages, great Idea i adopted that [@Tomato6966/LAVA-MUSIC]https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js)
-[@tomato](https://github.com/Tomato6966/) For the Reacting system to messages, great Idea, I adopted that [@Tomato6966/LAVA-MUSIC]https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js)
+[@tomato](https://github.com/Tomato6966/) For the Reacting system to messages, great Idea i adopted that [@Tomato6966/Lava](https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js)
+[@tomato](https://github.com/Tomato6966/) For the Reacting system to messages, great Idea, I adopted that [@Tomato6966/LAVA](https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js)
+
+Thanks For Tomato6966
+Check Out Tomato6966 Gtihub Repo
+
 
 Thanks For Tomato6966
 Check Out Tomato6966 Gtihub Repo
