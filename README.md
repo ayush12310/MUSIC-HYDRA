@@ -13,7 +13,7 @@
 
  **2.** Download this repo and unzip it    |    or git clone it
 
- **3.** Install all of the packages with **`npm install`**     |  the important packages are   **`npm install discord.js erela.js`**
+ **3.** Install all of the packages with **`npm install @discordjs/opus @ksoft/api ascii-table canvacord canvas colors common-tags discord.js enmap erela.js erela.js-deezer erela.js-facebook erela.js-spotify lyrics-finder ms `**     |  the important packages are   **`npm install discord.js erela.js`**
 
  **4** Fill in the parameters, RIGHT in `botconfig/config.json`!
 
