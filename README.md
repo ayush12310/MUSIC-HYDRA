@@ -104,6 +104,3 @@ Like For games..
 
 **Discord Server:**
 [https://discord.com/invite/4dGuGXK4A4](https://discord.com/invite/4dGuGXK4A4)
-
-**Website:**
-[mc-host24.de](https://mc-host24.de/user/affiliate/3121])
